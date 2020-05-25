@@ -1,2 +1,2 @@
 # Canvas
-The HTML Canvas Custamization
+The HTML Canvas Customization
